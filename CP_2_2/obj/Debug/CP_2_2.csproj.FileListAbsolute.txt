@@ -1,0 +1,19 @@
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\CP_2_2.exe.config
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\CP_2_2.exe
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\CP_2_2.pdb
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\Oracle.DataAccess.dll
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.Form1.resources
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.Properties.Resources.resources
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.csproj.GenerateResource.Cache
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.exe
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.pdb
+E:\study\(1) Учёба\БарГУ Инж.Фак\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\CP_2_2.exe.config
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.exe
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\CP_2_2.exe
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\bin\Debug\CP_2_2.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.Form1.resources
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.Properties.Resources.resources
+E:\study\1_Study\BarsuEngineeringFaculty\2 курс 2 сем\Курсовое проектирование\CP_2_2\CP_2_2\obj\Debug\CP_2_2.csproj.GenerateResource.Cache
